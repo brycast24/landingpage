@@ -1,4 +1,75 @@
 body{
 
-    
+
+}
+.header{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+.logo{
+
+    font-size: 48px;
+
+}
+.lines{
+
+
+}
+.name{
+
+
+}
+.undername{
+
+
+}
+
+img{
+
+    height:100px;
+    width:100px;
+}
+
+.parentrandom{
+
+}
+.random{
+
+
+}
+
+.quote{
+
+
+
+}
+
+.thor{
+
+
+
+}
+
+.parentfooter{
+
+
+}
+.footer{
+
+
+}
+.underfooter{
+
+
+
+}
+
+.signup{
+
+
+
+
 }
