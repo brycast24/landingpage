@@ -1,29 +1,38 @@
 body{
+    background-color: #1F2937;
+    margin: auto;
+
+}
+h1{
+    background-color: #1F2937;
 
 
 }
+
 .header{
     display:flex;
     justify-content: space-between;
     align-items: center;
-
+   
 
 }
 .logo{
 
-    font-size: 48px;
+    font-size: 24px;
+    font-weight: extra-bold;
+    color: #F9FAF8;
 
 }
 .lines{
-
+    font-size: 18px;
+    color: #e5e7eb
 
 }
 .name{
-
-
-}
-.undername{
-
+    FONT-SIZE: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+    background-color: #1f2937;
 
 }
 
@@ -34,42 +43,21 @@ img{
 }
 
 .parentrandom{
-
-}
-.random{
-
+    background-color: white;
 
 }
 
-.quote{
+.colorgrey{
 
-
-
+    background-color: #e5e7eb;
 }
 
-.thor{
 
-
+button{
+    background-color: #3882f6;
 
 }
-
 .parentfooter{
-
-
-}
-.footer{
-
-
-}
-.underfooter{
-
-
-
-}
-
-.signup{
-
-
-
+    background-color: #3882f6;
 
 }
